@@ -1,11 +1,11 @@
 import random
-print("Hi! Welcome to the 'ROCK PAPER SCISSORS' game. Just a few rules:\n ROCK beats SCISSORS\n SCISSORS beats paper \n PAPER beats ROCK ")
+print("Hi! Welcome to the 'ROCK PAPER SCISSORS' game.\nThe rules for thus game is easy:\n ROCK beats SCISSORS\n SCISSORS beats paper \n PAPER beats ROCK ")
 print("-----------------------------------------------------------------------")
-print("In this game:\n R will denote ROCK \n P will deonte PAPER\n S will denote SCISSORS" )
+print("In this game:\n R is ROCK \n P is PAPER\n S is SCISSORS" )
 print("-----------------------------------------------------------------------")
-print("Your opponent will be the computer.") 
+print("You will be playing against your computer.") 
 print("-----------------------------------------------------------------------")
-print("NOW LET'S PLAY!")
+print("Lets play")
 options=['R','P','S']
 i=0
 while i>=0:
